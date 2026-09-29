@@ -1,5 +1,4 @@
 # Industrial-ai-fundamentals
-First Principles machine learning models and data-driven predictive maintenance for industrial engineering
 This Repository contains first principles machine learning implementation, mathematical derivations, and predictive maintenance algorithms designed for industrial assets.
 
 ## Modules
